@@ -1,0 +1,380 @@
+
+🔍 Parsing with pdfplumber...
+
+--- Page 1 ---
+SWAPFOREX
+Know Your Customer (KYC)
+Procedures
+Version: 1.1
+Last review of document: May 2024
+
+
+--- Page 2 ---
+Document reviewed: Annual
+Table of Contents
+1. INTRODUCTION ................................................................................................................... 3
+2. PURPOSE ............................................................................................................................. 3
+3. SCOPE ................................................................................................................................. 3
+4. ONBOARDING ...................................................................................................................... 4
+4.1 What does the onboarding process entail? .............................................................................. 4
+4.2 Soft Vet................................................................................................................................ 4
+4.3 Extreme Vet ......................................................................................................................... 
+
+
+--- Page 3 ---
+1. INTRODUCTION
+Swapforex Ltd ("Swapforex") is fully committed to maintaining the highest standards of
+compliance and continuously improving the services provided to its valued clients. This
+procedural document supports, and should be read in conjunction with, the Lead & Customer
+Management Policy and the Anti-Money Laundering (AML) & Counter-Terrorism Financing
+(CTF) Policies. As an extension of these foundational documents, it outlines the essential
+steps required to meet the legislative, regulatory, and statutory obligations of Swapforex as an
+FCA- and HMRC-registered licensee. This document serves as a comprehensive guide to
+ensure that all compliance requirements are rigorously upheld in alignment with regulatory
+expectations.
+2. PURPOSE
+This procedure serves to ensure that all parties involved in the KYC processes adhere to the
+highest standard of regulatory compliance & risk management. Swapforex believes that by
+implementing a robust onboarding framework, we can effectively ass
+
+
+--- Page 4 ---
+approach is essential for adhering to anti-money laundering (AML) and counter-terrorism
+financing (CTF) laws.
+4. ONBOARDING
+4.1 What does the onboarding process entail?
+Onboarding refers to the process of gathering information from a potential participant/ service
+provider, assessing the information provided against external data sources and making a
+decision/ judgement based on predefined criteria on the suitability & viability of the applicant
+in relation to the organizational risk appetite. This process is also commonly known as the
+vetting process. Compliance to legislative and regulatory standards is of utmost importance
+and an irrefutable part of the decision-making process.
+The vetting process typically falls within 2 categories i.e., i) Soft Vetting and ii) Extreme Vetting
+4.2 Soft Vet
+This is an investigative process in which preliminary checks are performed on a prospective
+entity. A soft vet allows the organization to perform an initial assessment to determine whether
+the en
+
+
+--- Page 5 ---
+Soft Vet
+All types Name of prospective entity.
+participants
+Complete Vet
+Individuals ♦ Clear copy of Passport/ ID Document (not expiring within next 6 months)
+♦ Proof of Residential Address (not older than 3 months)
+Financial ♦ Anti-Money Laundering Certificate
+Institutions ♦ Anti-Money Laundering & Risk Assessment Policy
+♦ Confirmation of FI Tax Reference
+♦ Data Protection Certificate (If applicable)
+♦ Fit and Proper certificates (if applicable)/ letters for Officers of the FI
+♦ Certificate of Incorporation
+♦ Articles of association/memorandum
+♦ Latest AML/CFT external audit report
+♦ Latest Financial Reports
+♦ Letter from the Accountant/Lawyer confirming business details
+♦ Proof of ID and address of Director/s
+♦ Proof of ID and address of shareholder/s 10% or above
+♦ Organization Legal Structure Chart
+♦ Authority Letter for individual system users
+♦ Proof of ID for Authorised users
+♦ Head Office proof of address
+♦ Regulatory Body License
+♦ Profile/CV of Directors and Chief Compliance 
+
+
+--- Page 6 ---
+Money ♦ Anti-Money Laundering Certificate
+Remittance ♦ Authority Letter for individuals
+Organisations ♦ Business License Number
+♦ Business Registration Certificate
+♦ Company Anti-Money Laundering & Risk Assessment Policy
+♦ Confirmation of Corporation Tax Reference
+♦ Data Protection Certificate (If applicable)
+♦ Fit and Proper for Officers of the Company (If applicable)
+♦ Incorporation Certificate
+♦ Articles of association/Memorandum
+♦ Latest AML/CFT external audit report
+♦ Latest Financial Reports
+♦ Letter from the Accountant/Lawyer confirming business details
+♦ Notarized Proof of ID and address for Director/s
+♦ Notarized Proof of ID and address for shareholder/s 10% and above
+♦ Organization Legal Structure Chart
+♦ Proof of ID and address for Authorised Individuals
+♦ Head Office proof of address
+♦ Regulatory Body License
+♦ Remittance Licence
+♦ Profile/CV of Directors and Chief Compliance Officer
+♦ Statutory documents of Juristic Entities iro Shareholding
+♦ Remittance beneficiary inform
+
+
+--- Page 7 ---
+♦ Proof of ID and address of Director/s
+♦ Proof of ID and address of shareholder/s 10% and above
+♦ Organization Legal Structure Chart
+♦ Proof of ID and address for Authorised system users
+♦ Head Office proof of address
+♦ Regulatory Body License
+♦ Resumé of Directors and Chief Compliance Officer
+♦ Share Certificate
+♦ Statutory documents of Juristic Entities iro Shareholding
+♦ Nature of business
+♦ Information around customers and flow of funds
+4.5 Onboarding steps
+The procedure to follow when conducting a compliance vet, can be found in the steps
+articulated below.
+Step 1: The Compliance team will receive a request from Business Development for a new
+onboarding. The initial request will be for a soft vet in which case if successful, an extreme
+betting must be conducted.
+Step 2: It is recommended for each request to be acknowledged. Not only is it polite and builds
+report, but it also allows for an audit trail for future references.
+Step 3 – SOFT VETTING: On Klearium, under Compliance vet
+
+
+--- Page 8 ---
+• SHAREHOLDERS AND DIRECTORS: information related to company
+shareholders and directors including the shareholders and directors' registers,
+IDs, CVs and proof of addresses
+Step 4: There could also be instances where documents are outstanding or additional
+documents is required or clarity sought. In such cases the assessor must be specific in the
+communication with the applicant.
+Step 5 – RISK SCORING: After all checks are completed on a prospective applicant, a risk
+score is assigned to the entity.
+Lowest 26 / Highest 100
+Risk scale
+Low 26 - <40
+Onboarding Scores
+Medium >40 - <55
+High >55 - <70
+Alert! > 70
+This score allows the organisation to determine whether the applicant falls within the risk
+appetite of the business. Additionally, it provides guidance on the frequency of due diligence
+reviews to be conducted on the applicant.
+The below table provides guidance on the criteria and aspects taken into account during the
+risk scoring process and how risk scores are allocated.
+Category
+
+
+--- Page 9 ---
+(c) Does the Client or beneficial owner YES = 3
+have links to sectors that involve NO = 1
+significant amounts of cash? Unsure = 2
+(d) Where the Client is a legal person or Prohibited Industry = 5
+legal arrangement, what is the nature of
+their business? ** High Risk Industry = 4
+Medium Risk Industry = 3
+Low Risk Industry = 1
+Unsure = 2
+(e) Does the Client have political YES = 5
+connections, or is the beneficial owner a NO = 1
+PEP? Does the Client or beneficial owner Unsure = 2
+have any other relevant links to a PEP,
+for example, are any of the Client’s
+directors PEPs and, if so, do these PEPs
+exercise significant control over the
+Client or beneficial owner? ***
+(f) Does the Client or beneficial owner YES = 5
+hold another prominent position or NO = 1
+enjoy a high public profile that might Unsure = 2
+enable them to abuse this position for
+private gain? For example, are they
+senior local or regional public officials
+with the ability to influence the awarding
+of public contracts, decision-m
+
+
+--- Page 10 ---
+(j) Is the Client’s or the beneficial owner’s YES = 1
+background consistent with what the NO = 3
+firm knows about their former, current Unsure = 2
+or planned business activity, their
+business’s turnover, the source of funds
+and the Client’s or beneficial owner’s
+source of wealth?
+1.2 Relevant risk factors (a) Are there adverse media reports or YES = 3
+when considering the other relevant sources of information NO = 1
+risk associated with a about the Client, for example, are there Unsure = 2
+client’s or beneficial any allegations of criminality or terrorism
+owners’ reputation: against the Client or the beneficial
+owner? If so, are these reliable and
+credible? The financial institution should
+determine the credibility of allegations
+on the basis of the quality and
+independence of the source of the data
+and the persistence of reporting of these
+allegations, among other considerations.
+(b) Has the Client, beneficial owner or YES = 5
+anyone publicly known to be closely NO = 1
+associated with
+
+
+--- Page 11 ---
+beneficial owner’s (b) Are there indications that the Client YES = 3
+nature and behaviour. might seek to avoid the establishment of NO = 1
+a business relationship? For example, Unsure = 2
+does the Client look to carry out one
+transaction or several one-off
+transactions where the establishment of
+a business relationship might make more
+economic sense?
+(c) Is the Client’s ownership and control YES = 1
+structure transparent and does it make NO = 3
+sense? If the Client’s ownership and Unsure = 2
+control structure is complex or opaque,
+is there an obvious commercial or lawful
+rationale?
+(d) Do the Client issue bearer shares or YES = 3
+does it have nominee shareholders? NO = 1
+Unsure = 2
+(e) Is the Client a legal person or legal YES = 3
+arrangement that could be used as a NO = 1
+personal asset holding vehicle? Unsure = 2
+(f) Is there a sound reason for changes in YES = 1
+the Client’s ownership and control NO = 3
+structure? Unsure = 2
+(g) Does the Client request unnecessary YES = 3
+or unreaso
+
+
+--- Page 12 ---
+2.2 Jurisdiction of Beneficial Owner/Ultimate 1 point if UK, USA, Canada,
+Parent Company/Client's country of Western Europe, Australia, New
+Zealand
+residence
+2 points for “Developed Asian”
+(Japan, India, South Korea,
+Singapore, Taiwan, China, Hong
+Kong) or "Eastern European"
+Countries
+3 points for South Africa, Brazil,
+Argentina, Chile, UAE, Qatar,
+Oman
+4 points for all other African,
+Latin American, Middle Eastern &
+Asian Countries
+5 points for Tax Haven/Offshore
+countries
+10 points for a country under
+economic sanctions
+2.3 Geographical location of participant 1 point if UK, USA, Canada,
+Western Europe, Australia, New
+Zealand
+2 points for “Developed Asian”
+(Japan, India, South Korea,
+Singapore, Taiwan, China, Hong
+Kong) or "Eastern European"
+Countries
+3 points for South Africa, Brazil,
+Argentina, Chile, UAE, Qatar,
+Oman
+4 points for all other African,
+Latin American, Middle Eastern &
+Asian Countries
+5 points for Tax Haven/Offshore
+countries
+10 points for a country under
+economic sanc
+
+
+--- Page 13 ---
+♦ Fatf high risk countries infers, that they are completely sanctioned & Black Listed,
+https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-
+jurisdictions/documents/increased-monitoring-october-2022.html
+♦ Non-Cooperative Jurisdictions for Tax Purposes - reference link,
+https://www.consilium.europa.eu/en/policies/eu-list-of-non-cooperative-jurisdictions
+♦ High-Risk Jurisdictions subject to a Call for Action and Adherence
+https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-
+jurisdictions/documents/call-for-action-october-2022.html
+♦ Jurisdictions under Increased Monitoring Plan,
+https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-
+jurisdictions/documents/increased-monitoring-october-2022.html
+♦ EU and US Financial and Arms Embargo, https://www.sanctionsmap.eu/#/main
+♦ FCA Guidance
+♦ HMRC AMLS Guidance
+♦ JMLSG
+https://www.jmlsg.org.uk/guidance/current-guidance/
+♦ MLR 2022
+https://www.legislation.gov.uk/uksi/2022/393/made
+Industries and Pr
+
+
+--- Page 14 ---
+Confirmed with ……………… (name external data source) …………
+❖ Anticipated Business Activity …………………………………………………………………………….
+❖ Risk Rating …………………………………………………………………………….
+❖ Concluding remarks …………………………………………………………………….
+❖ Annexures……………………………………………………….
+❖ Report compiled by ………………………
+❖ Date ………………………………
+❖ Onboarding approved / declined by …………………………
+Step 8: Irrespective of the decision of the application, the outcome must be communicated to
+the applicant. In the case of a negative result, it is recommended to first have a discussion with
+the internal stakeholder, who will be best placed to decide on who should communicate the
+results with the applicant. If there is a compliance fail, we may not disclose the reason for the
+decline as this could be seen as tipping off which goes against AML/CTF regulations. In such a
+scenario we’d note that the application does not fall within the risk appetite of the business.
+In the event of a successful outcome, we would also discuss with the internal stakeho
+
+
+--- Page 15 ---
+5.2 Monitoring requirements
+Ongoing monitoring will be conducted similarly to the onboarding exercise via Klearium.
+For UK firms regulated by the Financial Conduct Authority (FCA) and HM Revenue & Customs
+(HMRC), ongoing monitoring is a critical component of Anti-Money Laundering (AML)
+compliance. Ongoing monitoring is designed to detect suspicious activities, update customer
+risk assessments, and ensure that firms remain compliant with AML and Counter-Terrorism
+Financing (CTF) obligations.
+Elements for on-going monitoring will included;
+1. Transaction Monitoring: UK firms are required to monitor transactions on an ongoing
+basis, focusing on detecting any patterns or unusual activity that may indicate potential
+money laundering or terrorism financing. This includes monitoring transaction sizes,
+volumes, and frequency, as well as comparing them to the customer’s established
+profile.
+2. Customer Risk Re-assessment: Customer risk levels are not static and must be
+reviewed periodically. Th
+
+
+--- Page 16 ---
+SYSTEM PURPOSE
+Comply Advantage Comply Advantage is an external paid for system, which we utilize as a
+screening tool to verify the authenticity and validate the status, as far as
+it extends to Money Laundering, sanctions and political exposure of
+individuals and entities.
+Bank Focus We utilize this screening tool to validate the authenticity of financial
+institutions and its affiliated executives. The system provides insights into
+the historical and current hierarchy of a financial institution. It also
+provides insights into sanctioned entities and is additionally used to
+assess and verify a financial institution’s financial status.
+Google Google is freely available to check on applicants’ websites, social or
+general media.
+Know Your Country This data source is freely available to internet users. It provides insights
+into jurisdiction reports focussing on:
+❖ Transparency Int. Index/ Country Ratings table – the jurisdiction
+risk rating
+❖ Sanctions – the FATF status of the jurisdiction
+
+
+
+--- Page 17 ---
+Worldcheck World check is used to explore politically exposed persons and high-
+risk individuals.
+Government We verify information and documents the applicant provided us with
+Websites by sound boarding it against the relevant jurisdiction’s website.
+7. REPORTING
+Per POCA 2002, should suspicious activity, documentation or reasonable ground for suspicion
+become evident during any stage of onboarding, the assessor must make an internal disclosure
+to the MLRO. The assessor must:
+a) consider obtaining EDD in accordance with MLR Regulations 2017; and
+(b) make an internal disclosure in accordance with the procedures established under POCA
+2002, part 7.
+The reporting procedures as above must also apply to prospective customers and transactions
+that were attempted but that did not take place. The steps to follow for an internal disclosure is
+covered in the procedural document for suspicious reporting.
+The MLRO will consider the internal disclosure to assess whether an external disclosure need
+
+
+
+--- Page 18 ---
+[No text found]
+

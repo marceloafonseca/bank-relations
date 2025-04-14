@@ -1,0 +1,42 @@
+
+🔍 Parsing with PyMuPDF...
+
+--- Page 1 ---
+TCPDF Example 014
+by Nicola Asuni - Tecnick.com
+www.tcpdf.org
+Example of Form
+First name:
+Last name:
+Gender:
+Drink:
+Water
+Beer
+Wine
+Milk
+Newsletter:
+Address:
+List:
+E-mail:
+Date:
+Powered by TCPDF (www.tcpdf.org)
+                               page 1 / 1
+ 
+ 
+-
+H
+G
+H
+H
+I
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit.
+item1
+item2
+ 
+2015-08-02
+Print
+Reset
+Submit
+
+

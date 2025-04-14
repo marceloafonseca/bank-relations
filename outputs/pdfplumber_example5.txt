@@ -1,0 +1,31 @@
+
+🔍 Parsing with pdfplumber...
+
+--- Page 1 ---
+TCPDF Example 033
+by Nicola Asuni - Tecnick.com
+www.tcpdf.org
+Font Types
+[Core font] : Cras eros leo, porttitor porta, accumsan
+fermentum, ornare ac, est. Praesent dui lorem,
+imperdiet at, cursus sed, facilisis aliquam, nibh. Nulla
+accumsan nonummy diam. Donec tempus. Etiam
+posuere. Proin lectus. Donec purus. Duis in sem
+pretium urna feugiat vehicula. Ut suscipit velit eget
+massa. Nam nonummy, enim commodo euismod
+placerat, tortor elit tempus lectus, quis suscipit metus
+lorem blandit turpis.
+[True Type Unicode font] : Cras eros leo,
+porttitor porta, accumsan fermentum,
+ornare ac, est. Praesent dui lorem,
+imperdiet at, cursus sed, facilisis aliquam,
+nibh. Nulla accumsan nonummy diam.
+Donec tempus. Etiam posuere. Proin lectus.
+Donec purus. Duis in sem pretium urna
+feugiat vehicula. Ut suscipit velit eget
+massa. Nam nonummy, enim commodo
+euismod placerat, tortor elit tempus lectus,
+quis suscipit metus lorem blandit turpis.
+[CID-0 font] : Cras eros leo, porttitor porta, accumsan
+fermentum,
+

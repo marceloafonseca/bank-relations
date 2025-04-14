@@ -1,0 +1,23 @@
+
+🔍 Parsing with pdfplumber...
+
+--- Page 1 ---
+TCPDF Example 014
+by Nicola Asuni - Tecnick.com
+www.tcpdf.org
+Example of Form
+First name:
+Last name:
+Gender:
+Drink: Water
+Beer
+Wine
+Milk
+Newsletter:
+Address:
+List:
+E-mail:
+Date:
+page 1 / 1
+Powered by TCPDF (www.tcpdf.org)
+

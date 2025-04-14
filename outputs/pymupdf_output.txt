@@ -1,0 +1,326 @@
+
+🔍 Parsing with PyMuPDF...
+
+--- Page 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+Global AML-CTF Policy 
+Version No. 1.0 
+DocuSign Envelope ID: 3507941C-9D39-440A-869A-EEC34BAA985F
+
+
+
+--- Page 2 ---
+Global AML-CTF Policy v1.0 
+ 
+ 
+2 
+Thunes – Smart. Transfer. Solutions. 
+© Copyright 2020 – Confidential 
+Revision History 
+This section records the history of significant changes to this document. Only the most significant changes 
+will be listed here. 
+Version 
+Date 
+Name 
+Description 
+1.0 
+30/01/2020 
+Adrien Antoni 
+Initial global version 
+ 
+Confidentiality 
+All information contained in this document shall be kept in confidence. No part of this document is to be 
+altered or copied without the written agreement of Thunes. None of this information shall be divulged to 
+persons other than to authorised employees of Thunes Group on a need to know basis. Release of this 
+document to other parties must be authorised by Thunes in accordance with existing policy regarding release 
+of company information, and only once an NDA has been signed with that party. Release of this document 
+to other parties shall be to individuals of organisations authorised by Thunes and in accordance with existin
+
+
+--- Page 3 ---
+Global AML-CTF Policy v1.0 
+ 
+ 
+3 
+Thunes – Smart. Transfer. Solutions. 
+© Copyright 2020 – Confidential  
+Table of Contents 
+1. 
+Introduction ......................................................................................................................... 4 
+1.1 
+Company Profile ................................................................................................................................ 4 
+1.2 
+International Payments Intermediation ............................................................................................ 4 
+1.3 
+Policy Statement on AML-CTF ........................................................................................................... 5 
+1.4 
+Partners and Agents .......................................................................................................................... 5 
+1.5 
+Board Endorsement ..........................................................................................................................
+
+
+--- Page 4 ---
+Global AML-CTF Policy v1.0 
+ 
+ 
+4 
+Thunes – Smart. Transfer. Solutions. 
+© Copyright 2020 – Confidential 
+1. 
+Introduction 
+This policy should be read in conjunction with the company’s global policy and procedures framework.1 
+1.1 
+Company Profile 
+Thunes provides a cross-border network that delivers smarter payment solutions for emerging economies. 
+We help to make financial services accessible for everyone by interconnecting diverse payment systems that 
+allow unbanked people to access the global economy. Our network makes it possible for Mobile Wallet 
+Operators, Corporations, Merchants, Money Transfer Operators, and Banks to facilitate the real-time 
+movement of funds to and from emerging countries. 
+We offer three key payment solutions: P2P remittance processing, corporate mass payouts, and digital 
+payment services. Our global network spans across more than 80 countries with over 9000 payout partners. 
+For more information, please visit www.thunes.com. 
+ 
+1.2 
+International Payme
+
+
+--- Page 5 ---
+Global AML-CTF Policy v1.0 
+ 
+ 
+5 
+Thunes – Smart. Transfer. Solutions. 
+© Copyright 2020 – Confidential  
+• 
+Integration layer that provides a single technical interface for connecting parties to send or receive 
+payments with any member of the network using a standardised protocol. 
+• 
+Routing layer that receives the transfer request from sending party, process and routes to the 
+corresponding party based on identifier used such as MSISDN, Mobile Money Account ID. 
+• 
+FX Management & Settlement layer that manages the currency conversion and monetary flows, and 
+acts as centralises settlement of for network members. 
+• 
+Compliance layer that delivers the required AML/CTF controls mandated by regulators. 
+It is important to note that the role of Thunes is limited to acting as an interface between licensed entities 
+and has no direct interaction or contractual relationship with end users. Thunes manages the currency 
+conversion as well as the settlement and data routing between them. 
+1
+
+
+--- Page 6 ---
+Global AML-CTF Policy v1.0 
+ 
+ 
+6 
+Thunes – Smart. Transfer. Solutions. 
+© Copyright 2020 – Confidential 
+1.5 
+Board Endorsement 
+The board of directors of Thunes will not criticise management for any loss of business resulting from 
+adherence to this policy. No employee or contractor will suffer as a consequence of bringing to the attention 
+of the board or senior management, in good faith, a known or suspected breach of this policy, nor will any 
+employee or contractors suffer any adverse employment or contract decision for abiding by this Policy. 
+1.6 
+Subject to this Policy 
+This Global Anti Money Laundering and Counter Terrorism Financing (“AML-CTF”) Policy applies to Thunes 
+Group (“Thunes”), its licensed entities, affiliates, subsidiaries, directors, officers, and employees. Thunes 
+Group consists of TTMFS Singapore Pte. Ltd. and all subsidiaries, including at the date of publication licenced 
+entities in the UK, Singapore and the USA.2 
+All appropriate business units are requir
+
+
+--- Page 7 ---
+Global AML-CTF Policy v1.0 
+ 
+ 
+7 
+Thunes – Smart. Transfer. Solutions. 
+© Copyright 2020 – Confidential  
+Having successfully processed his criminal profits through the first two phases the launderer then moves 
+them to the third stage – integration – in which the funds re-enter the legitimate economy. The launderer 
+might choose to invest the funds into real estate, luxury assets, or business ventures4. 
+ 
+The following types of activities are considered to be “money laundering” and are prohibited under this 
+Policy: 
+• 
+the conversion or transfer of property (including money), knowing or suspecting that such property 
+is derived from criminal or certain specified unlawful activity ("criminal property"), for the purpose 
+of concealing or disguising the illicit origin of the property or of assisting any person who is involved 
+in the commission of such activity to evade the legal consequences of his action; 
+• 
+conducting a financial transaction which involves criminal benefits; 
+• 
+t
+
+
+--- Page 8 ---
+Global AML-CTF Policy v1.0 
+ 
+ 
+8 
+Thunes – Smart. Transfer. Solutions. 
+© Copyright 2020 – Confidential 
+mitigation, notably of the AML-CTF risk. To establish and implement risk-based policies, procedures, and 
+processes to comply with the applicable money laundering and terrorist financing laws and regulations 
+wherever Thunes operates. Please refer to the Global Risk Management Policy for more information.  
+2. 
+AML-CTF Compliance Approach 
+2.1 
+Senior Management Responsibility 
+Senior management is responsible for ensuring that their business has a culture of compliance and effective 
+controls to comply with AML-CTF Regulations  and regulations to prevent, detect and respond to money 
+laundering and counter-terrorism financing and to communicate the serious consequences of non-
+compliance to employees. 
+Thunes is subject to several AML-CTF Regulations to implement systems and controls to prevent and detect 
+money laundering and terrorism financing. These include systems and control
+
+
+--- Page 9 ---
+Global AML-CTF Policy v1.0 
+ 
+ 
+9 
+Thunes – Smart. Transfer. Solutions. 
+© Copyright 2020 – Confidential  
+2.3 
+Partner Audit Policy 
+After signup, partners are required to go through regular audits to ensure that their AML policies are up-to-
+date and there is no material or significant changes to their corporate governance and / or ownership 
+structure. This along with other controls are detailed in the company’s Global Partner Audit Procedure. 
+2.4 
+Know Your Customer’s Customer   
+Thunes has no contractual relationship or interaction with its partners’ direct customers/end users, it relies 
+on its partners for the performance of customer due diligence (CDD). However, Thunes collects at least the 
+minimum customer KYC information required for each transaction and is able to obtain complete Customer 
+Due Diligence information or Enhanced Due Diligence Information on an ad-hoc basis by requiring this 
+information to its partners via a request for information. For more information, ref
+
+
+--- Page 10 ---
+Global AML-CTF Policy v1.0 
+ 
+ 
+10 
+Thunes – Smart. Transfer. Solutions. 
+© Copyright 2020 – Confidential 
+2.6 
+Suspicious Activity Reporting (SAR) 
+Thunes requires all its partners on the originating side to conduct on-going monitoring of the transactions 
+and remitting patterns of customers with whom they maintain a business relationship. Thunes, as a standard 
+operating process, looks for patterns and trends with particular emphasis on: 
+• 
+Sudden increase in frequency/value of transactions from a particular customer; 
+• 
+Uncharacteristic transactions which are not in keeping with the end user customer typology; 
+• 
+The size or frequency of the transaction is not consistent with the normal activities of the sender. 
+Any Thunes staff that becomes suspicious that a transaction may involve money laundering or who becomes 
+aware in the course of their work that someone else is involved in money laundering, must make a disclosure 
+to the relevant Thunes AML officer or MLRO. The relevant 
+
+
+--- Page 11 ---
+Global AML-CTF Policy v1.0 
+ 
+ 
+11 
+Thunes – Smart. Transfer. Solutions. 
+© Copyright 2020 – Confidential  
+2.8 
+Applicable Sanctions Lists 
+The Sender and Beneficiary names for all payments processed through the Thunes network are checked 
+against the following watch-lists: 
+• 
+EU External Action Service - Consolidated list of Sanctions 
+• 
+UK HM Treasury Office of Financial Sanctions Implementation Consolidated List 
+• 
+HM Treasury Ukraine Sanctions 
+• 
+OFAC Consolidated List 
+• 
+OFAC SDN List 
+• 
+Singapore MAS List 
+• 
+UN Consolidated 
+• 
+UN Liberia Sanctions 
+• 
+US Department of State Terror Exclusion List 
+• 
+Sanction Related Entities 
+• 
+US Consolidated Screening List (CSL) 
+• 
+Singapore First Schedule of the Terrorism (Suppression of Financing) Act 
+• 
+US Department of State Non-proliferation Sanctions List 
+• 
+US Department of State Cuban Restricted Entities List 
+• 
+European Council Restrictive Measures on Russian entities destabilising the situation in Ukraine 
+• 
+UN Security
+
+
+--- Page 12 ---
+Global AML-CTF Policy v1.0 
+ 
+ 
+12 
+Thunes – Smart. Transfer. Solutions. 
+© Copyright 2020 – Confidential 
+2.10 Compliance Escalation Procedure  
+The Compliance Department of Thunes has procedures in place to enforce termination of business 
+relationship with its partners if a partner is identified as not adhering to the company’s regulatory and 
+compliance requirements.  
+The triggering alerts to initiate a partner or customer escalation procedure could be any of the below: 
+• 
+Multiple Transaction Monitoring alerts; 
+• 
+Non-cooperation from the partner; 
+• 
+Unsatisfactory Due Diligence update or adverse media under on-going monitoring; 
+• 
+Unauthorized business performed; 
+• 
+Employee alerts; 
+• 
+End customer complaints or alerts; 
+• 
+Law enforcement requests regarding the partner or the partner associates, directors, beneficial 
+owners 
+• 
+Unsatisfactory AML-TF results after a specific investigation performed by Thunes. 
+For partners and customers in breach or not adhering to the re
+
+
+--- Page 13 ---
+Global AML-CTF Policy v1.0 
+ 
+ 
+13 
+Thunes – Smart. Transfer. Solutions. 
+© Copyright 2020 – Confidential  
+Employees should escalate any instances where they have cause for suspicion as a result of carrying their 
+business activities to the Compliance Department, who will advise them regarding which tools and processes 
+should be used to facilitate appropriate screening. 
+Employees must, in consultation with the Compliance Department, carefully consider screening outcomes 
+before deciding whether to do business with any third party. 
+Account managers must notify the Compliance Department when they detect business activity or lack in their 
+client’s governance could indicate money laundering or terrorist financing. 
+4. 
+Record Keeping 
+Record-keeping is an essential component of the audit trail required to assist in any investigation. Employees 
+must maintain records as evidence of their work and more specifically of any work related to the current 
+policy for at least 5 years. 
+5. 
+No
+

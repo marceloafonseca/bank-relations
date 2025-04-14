@@ -1,0 +1,94 @@
+
+🔍 Parsing with pdfplumber...
+
+--- Page 1 ---
+TCPDF Example 010
+by Nicola Asuni - Tecnick.com
+www.tcpdf.org
+Chapter 1 : LOREM IPSUM [TEXT]
+Lorem ipsum dolor sit amet, consectetur vehicula at lacus. Maecenas a lacus faucibus. Vivamus sed risus lectus, nec
+adipiscing elit. In sed imperdiet lectus. accumsan augue convallis sagittis sed quis interdum nunc.
+Phasellus quis velit velit, non odio. Morbi sit amet turpis diam, dictum
+condimentum quam. Sed neque urna, convallis urna. Cras eget interdum augue. Fusce et felis vitae diam lobortis
+ultrices ac volutpat vel, laoreet vitae Cras eu nisi sit amet dolor faucibus sollicitudin. Aenean tincidunt accumsan
+augue. Sed vel velit erat. Class aptent taciti porttitor. Suspendisse potenti. Nunc vitae nisi, id vehicula quam laoreet elementum.
+sociosqu ad litora torquent per conubia dolor risus, at cursus libero. Suspendisse Phasellus egestas interdum erat, et viverra
+nostra, per inceptos himenaeos. Cras eget bibendum tellus non nibh hendrerit ipsum ultricies ac. Praesent sagittis augue
+velit null
+
+
+--- Page 2 ---
+TCPDF Example 010
+by Nicola Asuni - Tecnick.com
+www.tcpdf.org
+aliquam vitae tincidunt leo rutrum.
+Vestibulum ante ipsum primis in faucibus
+orci luctus et ultrices posuere cubilia
+Curae; Pellentesque a nisl massa, quis
+pretium urna. Proin vel porttitor tortor.
+Cras rhoncus congue velit in bibendum.
+Donec pharetra semper augue id lacinia.
+Quisque magna quam, hendrerit eu
+aliquam et, pellentesque ut tellus.
+Vestibulum ante ipsum primis in faucibus
+orci luctus et ultrices posuere cubilia
+Curae; Maecenas nulla quam, rutrum eu
+feugiat at, elementum eu libero. Maecenas
+ullamcorper leo et turpis rutrum ac laoreet
+eros faucibus. Phasellus condimentum
+lorem quis neque imperdiet quis molestie
+enim iaculis. Phasellus risus est,
+vestibulum ut convallis ultrices, dignissim
+nec erat. Etiam congue lobortis laoreet.
+Nulla ut neque sed velit dapibus semper.
+Quisque nec dolor id nibh eleifend iaculis.
+Vivamus vitae fermentum odio. Etiam
+malesuada quam in nulla aliquam sed
+convallis dui feugiat.
+page 2 / 
+
+
+--- Page 3 ---
+TCPDF Example 010
+by Nicola Asuni - Tecnick.com
+www.tcpdf.org
+Chapter 2 : LOREM IPSUM [HTML]
+Lorem ipsum dolor sit amet, consectetur Integer non sem eget neque mattis Lorem ipsum dolor sit amet, consectetur
+adipiscing elit. In sed imperdiet lectus. accumsan. Maecenas eu nisl mauris, sit amet adipiscing elit. In sed imperdiet lectus.
+Phasellus quis velit velit, non condimentum interdum ipsum. In pharetra erat vel lectus Phasellus quis velit velit, non condimentum
+quam. Sed neque urna, ultrices ac volutpat venenatis elementum. Nulla non elit ligula, quam. Sed neque urna, ultrices ac volutpat
+vel, laoreet vitae augue. Sed vel velit erat. sit amet mollis urna. Morbi ut gravida est. vel, laoreet vitae augue. Sed vel velit erat.
+Class aptent taciti sociosqu ad litora Mauris tincidunt sem et turpis molestie Class aptent taciti sociosqu ad litora
+torquent per conubia nostra, per inceptos malesuada. Curabitur vel nulla risus, sed torquent per conubia nostra, per inceptos
+himenaeos. Cras eget ve
+
+
+--- Page 4 ---
+TCPDF Example 010
+by Nicola Asuni - Tecnick.com
+www.tcpdf.org
+Integer non sem eget neque mattis
+accumsan. Maecenas eu nisl mauris, sit amet
+interdum ipsum. In pharetra erat vel lectus
+venenatis elementum. Nulla non elit ligula,
+sit amet mollis urna. Morbi ut gravida est.
+Mauris tincidunt sem et turpis molestie
+malesuada. Curabitur vel nulla risus, sed
+mollis erat. Suspendisse vehicula accumsan
+purus nec varius. Donec fermentum lorem id
+felis sodales dictum. Quisque et dolor
+ipsum. Nam luctus consectetur dui vitae
+fermentum. Curabitur sodales consequat
+augue, id ultricies augue tempor ac.
+Aliquam ac magna id ipsum vehicula
+bibendum. Sed elementum congue tristique.
+Phasellus vel lorem eu lectus porta sodales.
+Etiam neque tortor, sagittis id pharetra quis,
+laoreet vel arcu.
+Cras quam mi, ornare laoreet laoreet vel,
+vehicula at lacus. Maecenas a lacus
+accumsan augue convallis sagittis sed quis
+odio. Morbi sit amet turpis diam, dictum
+convallis urna. Cras eget interdum augue.
+Cras eu nisi s
+
